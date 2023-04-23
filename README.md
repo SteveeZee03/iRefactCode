@@ -22,7 +22,8 @@ Use vsCode run and index.hthml or liveserver (optional)
 
 ## <b>Usage</b>
 Demonstration:<br>
-Develop\assets\images 
+<a href="https://github.com/SteveeZee03/iRefactCode/tree/main/Develop/assets/images/demo">Develop\assets\images\demo</a><br>
+Deployed Link: <a href="https://steveezee03.github.io/iRefactCode/Develop/">https://steveezee03.github.io/iRefactCode/Develop/</a> 
 
 ## <b>License</b>
 This project is licensed under the MIT license.
